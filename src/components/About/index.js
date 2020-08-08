@@ -3,7 +3,7 @@ import portrait from '../../assets/portrait/selfPortrait.png';
 
 function About() {
     return (
-        <section className='p-4 d-flex align-items-center flex-wrap flex-md-nowrap' style={{
+        <section className='p-4 d-flex justify-content-center align-items-center flex-wrap flex-md-nowrap' style={{
             backgroundColor: '#eeeefc',
             color: '#445a78'
         }}>
