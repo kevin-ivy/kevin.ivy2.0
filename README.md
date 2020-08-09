@@ -12,6 +12,8 @@
   * [Tests](#tests)
   * [License](#license)
   * [Questions](#questions)
+  
+    ![screenshot](/src/assets/thumbnail.png)
     
   ## Installation
   
