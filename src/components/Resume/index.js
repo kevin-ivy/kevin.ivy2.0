@@ -6,7 +6,7 @@ function Resume() {
             color: '#445a78'
         }}>
             <div className='w-100 text-center' style={{
-                marginTop: '125px'
+                marginTop: '100px'
             }}>
                 <h3>Some of my proficiencies include:</h3>
                 <ul className='mt-5 list-group'>
@@ -16,7 +16,7 @@ function Resume() {
                     <li>Node, Express, SQL, Sequelize, Mongoose</li>
                 </ul>
             </div>
-            <h4 className='text-center mt-5'>Visit <a href='https://www.linkedin.com/in/kevin-ivy-95867120/'target='_blank'  rel="noopener noreferrer">LinkedIn</a> to view my resume.</h4>
+            <h4 className='text-center mt-5'>Visit <a href='https://www.linkedin.com/in/kevin-ivy-95867120/' target='_blank'  rel="noopener noreferrer">LinkedIn</a> to view my resume.</h4>
         </section> 
     )
 
