@@ -2,6 +2,7 @@ import React, {useState} from 'react';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import About from '../src/components/About';
+import Contact from '../src/components/Contact';
 import Header from '../src/components/Header';
 import Footer from '../src/components/Footer';
 
@@ -12,8 +13,10 @@ function App() {
     switch(currentPage) {
       case 'About' :
         return <About />
+      case 'Contact':
+        return <Contact />
       default:
-        return <About />
+        return <Contact />
     }
   }
 

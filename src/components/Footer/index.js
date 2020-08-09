@@ -7,7 +7,7 @@ import { faStackOverflow } from '@fortawesome/free-brands-svg-icons';
 
 function Footer(props) {
     return (
-        <footer className='d-flex justify-content-center p-4 navbar fixed-bottom' style={{color: '#9ecacc', backgroundImage: `url(${Background})`}}>
+        <footer className='d-flex justify-content-center p-3 navbar fixed-bottom' style={{color: '#9ecacc', backgroundImage: `url(${Background})`}}>
             <h3 className='mx-3'>Find me on</h3> 
             <a className='mx-3' href="https://www.linkedin.com/in/kevin-ivy-95867120/">
            <FontAwesomeIcon icon={faLinkedin} color="#9ecacc" size="4x"/></a> 
