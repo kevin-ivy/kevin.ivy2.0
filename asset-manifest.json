@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kevin.ivy2.0/static/css/main.3da4652d.chunk.css",
+    "main.css": "/kevin.ivy2.0/static/css/main.d1f06bd5.chunk.css",
     "main.js": "/kevin.ivy2.0/static/js/main.9577c831.chunk.js",
     "main.js.map": "/kevin.ivy2.0/static/js/main.9577c831.chunk.js.map",
     "runtime-main.js": "/kevin.ivy2.0/static/js/runtime-main.9b3135aa.js",
@@ -9,10 +9,10 @@
     "static/js/2.c04391f0.chunk.js": "/kevin.ivy2.0/static/js/2.c04391f0.chunk.js",
     "static/js/2.c04391f0.chunk.js.map": "/kevin.ivy2.0/static/js/2.c04391f0.chunk.js.map",
     "index.html": "/kevin.ivy2.0/index.html",
-    "precache-manifest.0910167bf4d35cc1ef4c41c92b99ce91.js": "/kevin.ivy2.0/precache-manifest.0910167bf4d35cc1ef4c41c92b99ce91.js",
+    "precache-manifest.c96187b561e4de5790d49a65b358371b.js": "/kevin.ivy2.0/precache-manifest.c96187b561e4de5790d49a65b358371b.js",
     "service-worker.js": "/kevin.ivy2.0/service-worker.js",
     "static/css/2.aa704b0f.chunk.css.map": "/kevin.ivy2.0/static/css/2.aa704b0f.chunk.css.map",
-    "static/css/main.3da4652d.chunk.css.map": "/kevin.ivy2.0/static/css/main.3da4652d.chunk.css.map",
+    "static/css/main.d1f06bd5.chunk.css.map": "/kevin.ivy2.0/static/css/main.d1f06bd5.chunk.css.map",
     "static/js/2.c04391f0.chunk.js.LICENSE.txt": "/kevin.ivy2.0/static/js/2.c04391f0.chunk.js.LICENSE.txt",
     "static/media/background.png": "/kevin.ivy2.0/static/media/background.cdccd803.png",
     "static/media/budget.png": "/kevin.ivy2.0/static/media/budget.e311a7e3.png",
@@ -27,7 +27,7 @@
     "static/js/runtime-main.9b3135aa.js",
     "static/css/2.aa704b0f.chunk.css",
     "static/js/2.c04391f0.chunk.js",
-    "static/css/main.3da4652d.chunk.css",
+    "static/css/main.d1f06bd5.chunk.css",
     "static/js/main.9577c831.chunk.js"
   ]
 }
