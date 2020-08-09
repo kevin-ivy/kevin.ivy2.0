@@ -1,13 +1,13 @@
   
 import React from 'react';
-import Background from '../../assets/bg/background.png'
+import Background from '../../assets/bg/background.png';
 
 function Header(props) {
     const tabs = ['About', 'Portfolio', 'Contact', 'Resume']
     
     return (
     <div style={{color: '#9ecacc', backgroundImage: `url(${Background})`}}>
-        <nav className='navbar navbar-expand navbar-dark sticky-top'>
+        <nav className='p-3 navbar navbar-expand navbar-dark sticky-top'>
         <h1 className='text-align-center'>Kevin Ivy</h1>
             <div className="collapse navbar-collapse justify-content-end" id="navBarToggle">
                 <ul className="navbar-nav">
