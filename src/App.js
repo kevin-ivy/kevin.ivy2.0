@@ -5,6 +5,7 @@ import About from '../src/components/About';
 import Contact from '../src/components/Contact';
 import Header from '../src/components/Header';
 import Footer from '../src/components/Footer';
+import Resume from './components/Resume';
 
 function App() {
   const [currentPage, handlePageChange] = useState('About');
@@ -15,8 +16,10 @@ function App() {
         return <About />
       case 'Contact':
         return <Contact />
+      case 'Resume':
+        return <Resume />
       default:
-        return <Contact />
+        return <About />
     }
   }
 
