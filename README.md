@@ -13,7 +13,7 @@
   * [License](#license)
   * [Questions](#questions)
   
-    ![screenshot](/src/assets/thumbnail.png)
+  ![screenshot](/src/assets/thumbnail.png)
     
   ## Installation
   
